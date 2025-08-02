@@ -1,4 +1,4 @@
-## "I am not throwing away my shot!" - *Hamilton*
+# "I am not throwing away my shot!" - *Hamilton*
 
 ### EDUCATION
 - **Renmin University of China**, *Gaoling School of AI*, major in Artificial Intelligece, 2024 - 2028.
